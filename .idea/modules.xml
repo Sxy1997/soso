@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/soso-common/soso-common.iml" filepath="$PROJECT_DIR$/soso-common/soso-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soso-manager/soso-manager.iml" filepath="$PROJECT_DIR$/soso-manager/soso-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soso-manager/soso-manager-dao/soso-manager-dao.iml" filepath="$PROJECT_DIR$/soso-manager/soso-manager-dao/soso-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soso-manager/soso-manager-interface/soso-manager-interface.iml" filepath="$PROJECT_DIR$/soso-manager/soso-manager-interface/soso-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soso-manager/soso-manager-pojo/soso-manager-pojo.iml" filepath="$PROJECT_DIR$/soso-manager/soso-manager-pojo/soso-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soso-manager/soso-manager-service/soso-manager-service.iml" filepath="$PROJECT_DIR$/soso-manager/soso-manager-service/soso-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soso-manager/soso-manager-web/soso-manager-web.iml" filepath="$PROJECT_DIR$/soso-manager/soso-manager-web/soso-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soso-parent/soso-parent.iml" filepath="$PROJECT_DIR$/soso-parent/soso-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soso-portal/soso-portal.iml" filepath="$PROJECT_DIR$/soso-portal/soso-portal.iml" />
+    </modules>
+  </component>
+</project>

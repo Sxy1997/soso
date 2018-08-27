@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="soso-manager-web:war exploded">
+    <output-path>$PROJECT_DIR$/soso-manager/soso-manager-web/target/soso-manager-web-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="soso-manager-web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="soso-manager-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="soso-manager-service" />
+          </element>
+          <element id="archive" name="soso-manager-dao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="soso-manager-dao" />
+          </element>
+          <element id="archive" name="soso-manager-pojo-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="soso-manager-pojo" />
+          </element>
+          <element id="archive" name="soso-manager-interface-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="soso-manager-interface" />
+          </element>
+          <element id="archive" name="soso-common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="soso-common" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/soso-manager/soso-manager-web/target/soso-manager-web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="soso-manager-web/web/Web" />
+    </root>
+  </artifact>
+</component>
